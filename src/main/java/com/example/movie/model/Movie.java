@@ -30,7 +30,7 @@ public class Movie {
     }
 
     public String getLeadActor() {
-        return movieName;
+        return leadActor;
     }
 
     public void setLeadActor(String leadActor) {
